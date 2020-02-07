@@ -6,3 +6,9 @@
 # gitignore the built release.
 assignment3/*
 .vscode
+.ipynb_checkpoints
+cs231n/build/*
+cs231n/im2col_cython.c
+cs231n/im2col_cython.so
+cs231n/datasets/coco_captioning
+Cs231n/datasets/MNIST_data/MNIST
